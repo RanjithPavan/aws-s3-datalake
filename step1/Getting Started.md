@@ -1,9 +1,9 @@
 ### Amazon VPC (VPC) and Amazon EC2 (EC2) are built and the permission is configured appropriately in AWS IAM (IAM), 
 using AWS CloudFormation (CloudFormation). Then we will manually install the Fluentd; the log collection software.
 
-# Step1：Log in to the AWS Management Console
+# Step1
 
-Log in to the AWS Management Console. After logging in, confirm that [Tokyo] is set in the region selection in the header section at the top right of the screen.
+Log in to the AWS Management Console. 
 
 Select EC2 from the list of services in the AWS Management Console. From the left pane of [EC2 Dashboard], click [Key Pairs], click the [Create Key Pair] button, enter any value for [Key pair name] (Example: handson) and click [Create]. The private key (Example: handson.pem) is downloaded to your PC.
 
