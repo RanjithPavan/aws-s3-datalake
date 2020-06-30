@@ -1,0 +1,3 @@
+Amazon VPC (VPC) and Amazon EC2 (EC2) are built and the permission is configured appropriately in AWS IAM (IAM), 
+using AWS CloudFormation (CloudFormation). Then we will manually install the Fluentd; the log collection software.
+
